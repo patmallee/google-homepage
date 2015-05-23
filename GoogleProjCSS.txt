@@ -1,0 +1,67 @@
+#logo {
+	text-align: center;
+}
+
+#search {
+	text-align: center;
+}
+
+.rightfoot {
+	float: right;
+}
+
+.leftfoot {
+	float: left;
+}
+
+.bar {
+	width: 425px;
+	height: 20px;
+	margin: 10px 0px 8px 0px;
+}
+
+.button {
+	width: 150px;
+	height: 40px;
+	font-size: 20px;
+}
+
+div {
+	vertical-align: middle;
+	clear: both;
+}
+
+nav {
+	float: right;
+	clear: both;
+	margin-bottom: 50px;
+}
+
+footer {
+	background-color: #eeeeee;
+	clear: both;
+	position: fixed;
+	bottom: 0;
+	overflow: auto;
+	font-size: 14px;
+	width: 100%;
+	font-family: sans-serif;
+	padding: 0px 5px 0px 0px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	float: left;
+	padding: 5px;
+}
+
+a {
+	display: block;
+	width: 60px;
+	text-decoration: none;
+}
